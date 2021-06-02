@@ -1,2 +1,6 @@
-# ETL_Project_2
-ETL group project.
+# etl_project
+
+Agust Erlingsson <br>
+Eric Phieler <br>
+Nicole Rothfield <br>
+Matthew Terhune <br>
