@@ -5,4 +5,4 @@ Eric Phieler <br>
 Nicole Rothfield <br>
 Matthew Terhune <br>
 
- ![bar Chart](bar_chart_01.png)
+ ![bar Chart](ETL Techinal Report.pdf)
