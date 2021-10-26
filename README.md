@@ -5,4 +5,6 @@ Eric Phieler <br>
 Nicole Rothfield <br>
 Matthew Terhune <br>
 
-This example is to show we understand the process.  For more information or screen shots; click on the ETL Technical Report PDF.
+This example is to show we understand the process.  For more information or screen shots; click on the ETL Technical Report PDF. <br>
+
+![bar Chart](bar_chart_01.png)
