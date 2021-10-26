@@ -7,4 +7,4 @@ Matthew Terhune <br>
 
 This example is to show we understand the process.  For more information or screen shots; click on the ETL Technical Report PDF. <br>
 
-![ETL Techinal Report](ETL Techinal Report.pdf)
+![ETL Techinal Report](ERDStock (2).png)
